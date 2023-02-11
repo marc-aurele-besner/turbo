@@ -33,3 +33,9 @@ cd with-react-native-web
 yarn install
 git init . && git add . && git commit -m "Init"
 ```
+
+Install expo and expo-cli globally
+
+```sh
+yarn add expo expo-cli -g -W
+```
